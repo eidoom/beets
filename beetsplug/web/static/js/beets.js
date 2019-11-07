@@ -4,7 +4,7 @@
 
     // Constants
     var SETTINGS = {
-        API: "window.location.origin",
+        API: window.location.origin,
         ENABLE_PLAYLISTS: 0
     },
     // Models
